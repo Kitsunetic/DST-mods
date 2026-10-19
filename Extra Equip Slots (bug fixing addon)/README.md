@@ -21,3 +21,7 @@ luac -p 'Extra Equip Slots (bug fixing addon)/modmain.lua' 'Extra Equip Slots (b
 ```
 
 The Lua test models the relevant prefab-init ordering and shared closure. It is not an in-game DST test. Before release, test the unmodified original alone and then together with this addon in a copied world, including a remote client.
+
+## License
+
+Released under the [MIT License](LICENSE). The license covers only this addon; the original Extra Equip Slots mod is a separate work with its own terms.
